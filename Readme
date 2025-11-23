@@ -1,6 +1,1 @@
-mkdir mi-primer-proyecto
-cd mi-primer-proyecto
-git init
-git status
-git add Mi primer proyecto-archivo.html
-
+git commit -m "este es nuestro primer proyecto"
